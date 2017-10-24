@@ -1,0 +1,24 @@
+/*стили для классов*/
+.my_border {	
+	height: 800px;	
+	outline: 1px solid #ccc;
+}	
+
+.my_header {
+	background: #8d1;
+	margin: ;
+}
+
+.my_button {
+  display:block;
+  width:200px;
+  height:30px;
+}
+
+/*стили для тэгов*/
+header {
+	height:150px;
+	background: #c8b;
+	text-align: center;
+	vertical-align: middle; 
+}
